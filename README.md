@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Pappalardo&&show_icons=true&title_color=ffd500&icon_color=db222a&text_color=ffd500&bg_color=1d3461">](https://github.com/Lorenzo-Pappalardo)
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-Pappalardo&&show_icons=true&title_color=ffd500&text_color=ffd500&bg_color=1d3461&layout=compact">](https://github.com/Lorenzo-Pappalardo)
