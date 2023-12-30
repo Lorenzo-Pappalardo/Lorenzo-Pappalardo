@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to my profile 😎
+
+[<img src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Pappalardo&count_private=true&show_icons=true&theme=ayu-mirage">](https://github.com/Lorenzo-Pappalardo)
