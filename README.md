@@ -13,8 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey 😎
-
-[<img src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Pappalardo&count_private=true&show_icons=true&theme=ayu-mirage">](https://github.com/Lorenzo-Pappalardo)
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-Pappalardo&count_private=true&show_icons=true&theme=ayu-mirage">](https://github.com/Lorenzo-Pappalardo)
+### Welcome to my profile 😎
