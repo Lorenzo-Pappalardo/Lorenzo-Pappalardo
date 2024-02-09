@@ -17,8 +17,8 @@ export default function Home() {
   return (
     <>
       <Header name="Lorenzo Pappalardo" jobPosition="Front-end Web Developer" />
-      <div className="flex flex-1">
-        <div className="w-2/6">
+      <div className="flex gap-4 before:content-[''] after:content-['']">
+        <div className="flex-1 max-w-[400px]">
           <ChipsBoard chips={chips} />
         </div>
         <div className="flex-1">Contents</div>
