@@ -4,7 +4,7 @@ import SectionCard from './SectionCard.tsx';
 export default function ChipsBoard({ chips }: Readonly<ChipsBoardProps>) {
   return (
     <SectionCard>
-      <p className="text-2xl mb-4">Technology stack</p>
+      <h1>Technology stack</h1>
       <div
         className="grid gap-2 flex-wrap"
         style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(80px, 1fr))' }}>

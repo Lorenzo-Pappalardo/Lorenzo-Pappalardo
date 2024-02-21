@@ -6,3 +6,8 @@
   color-scheme: dark;
   color: white;
 }
+
+h1 {
+  font-size: xx-large;
+  margin-bottom: 1rem;
+}

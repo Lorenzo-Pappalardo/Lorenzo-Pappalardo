@@ -1,5 +1,6 @@
 import ChipsBoard from '../components/ChipsBoard.tsx';
 import { Header } from '../components/Header.tsx';
+import SectionCard from '../components/SectionCard.tsx';
 import ChipsBoardProps from '../models/ChipsBoard.ts';
 
 export default function Home() {
@@ -17,11 +18,22 @@ export default function Home() {
   return (
     <>
       <Header name="Lorenzo Pappalardo" jobPosition="Front-end Web Developer" />
-      <div className="flex gap-4 before:content-[''] after:content-['']">
-        <div className="flex-1 max-w-[400px]">
+      <div className="flex flex-col sm:flex-row gap-4 mx-6">
+        <div className="flex-1 sm:max-w-[400px]">
           <ChipsBoard chips={chips} />
         </div>
-        <div className="flex-1">Contents</div>
+        <div className="flex-1">
+          <SectionCard>
+            <h1>About me</h1>
+            <p className="text-justify">
+              I have always been passionate about technology and its impact on people's lives. As a
+              front-end developer I am responsible for creating interfaces that are not just
+              functional but also appealing. I always strive for improvement, to provide the users
+              the best experience possible. I embrace open source so my personal projects are
+              available on GitHub, feel free to check them out!
+            </p>
+          </SectionCard>
+        </div>
       </div>
     </>
   );
